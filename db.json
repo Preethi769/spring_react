@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "John",
+      "email": "john@gmail.com",
+      "phone": "9876543210",
+      "city": "New York"
+    },
+    {
+      "id": 2,
+      "name": "Sara",
+      "email": "sara@gmail.com",
+      "phone": "8765432109",
+      "city": "London"
+    },
+    {
+      "id": 3,
+      "name": "Mike",
+      "email": "mike@gmail.com",
+      "phone": "7654321098",
+      "city": "Paris"
+    },
+    {
+      "id": 4,
+      "name": "Emily",
+      "email": "emily@gmail.com",
+      "phone": "6543210987",
+      "city": "Tokyo"
+    }
+  ]
+}
