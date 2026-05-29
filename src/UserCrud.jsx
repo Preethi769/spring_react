@@ -99,6 +99,7 @@ function UserCrud() {
   return (
     <div style={{ padding: "20px" }}>
       <h1>User Management 👥</h1>
+      <h2>User</h2>
       {/* Add User Button */}
       <button onClick={() => setShowForm(true)}>
         Add New User ➕
